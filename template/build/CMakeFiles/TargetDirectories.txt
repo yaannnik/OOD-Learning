@@ -1,0 +1,4 @@
+/Users/yangyi/转码/OOD-Learning/template/build/CMakeFiles/rebuild_cache.dir
+/Users/yangyi/转码/OOD-Learning/template/build/CMakeFiles/edit_cache.dir
+/Users/yangyi/转码/OOD-Learning/template/build/CMakeFiles/main.dir
+/Users/yangyi/转码/OOD-Learning/template/build/CMakeFiles/HelloWorld.dir
